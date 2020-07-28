@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lpmartinez1109/ReadME_File_Generator/issues"
   },
-  "homepage": "https://github.com/Lpmartinez1109/ReadME_File_Generator#readme"
+  "homepage": "https://github.com/Lpmartinez1109/ReadME_File_Generator#readme",
+  "dependencies": {
+    "node": "^14.5.0"
+  }
 }
